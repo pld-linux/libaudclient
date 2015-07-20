@@ -3,7 +3,7 @@
 Summary:	Audacious D-Bus remote control library
 Name:		libaudclient
 Version:	3.5
-Release:	0.%{rc}.%{rel}
+Release:	0.%{pre}.%{rel}
 License:	BSD
 Group:		Libraries
 Source0:	http://distfiles.audacious-media-player.org/%{name}-%{version}-%{pre}.tar.bz2
